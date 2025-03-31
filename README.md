@@ -20,3 +20,6 @@ Or
 Vscode with the [devcontainer extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## Refs
+
+- [https://www.riskinsight-wavestone.com/en/2024/05/kms-the-key-to-secure-management-of-cryptographic-objects/](https://www.riskinsight-wavestone.com/en/2024/05/kms-the-key-to-secure-management-of-cryptographic-objects/)
+- [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8431.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8431.pdf)

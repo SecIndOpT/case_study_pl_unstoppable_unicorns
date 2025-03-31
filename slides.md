@@ -10,11 +10,9 @@ header-includes:
   - \usepackage{graphicx}
 ...
 
---- 
 ---
 
 ## Sources
 
-- https://www.riskinsight-wavestone.com/en/2024/05/kms-the-key-to-secure-management-of-cryptographic-objects/
-- https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8431.pdf
-
+- [https://www.riskinsight-wavestone.com/en/2024/05/kms-the-key-to-secure-management-of-cryptographic-objects/](https://www.riskinsight-wavestone.com/en/2024/05/kms-the-key-to-secure-management-of-cryptographic-objects/)
+- [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8431.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8431.pdf)
