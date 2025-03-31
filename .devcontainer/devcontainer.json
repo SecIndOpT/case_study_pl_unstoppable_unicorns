@@ -1,0 +1,13 @@
+{
+  "name": "Pandoc",
+
+  "build": {
+    "dockerfile": "./Dockerfile"
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
