@@ -90,7 +90,7 @@ We can summarize the mentioned key takeaways as follows:
 
 Effective IoT cybersecurity requires clear product security leadership,
 with original equipment manufacturers (OEMs) responsible for securing products throughout
-their lifecycle—from design and supply chain management to updates and end-of-life.
+their lifecycle - from design and supply chain management to updates and end-of-life.
 Standards, certifications, and maturity models are essential tools for building secure
 products and enabling consistent conformity assessment. Outcome-based, product-level
 requirements provide flexibility while supporting innovation and compliance across sectors.
