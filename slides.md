@@ -29,11 +29,11 @@ concerns (see figure \ref{impl-ways})
 ![Possible implementations of a KMS\label{impl-ways}](https://www.riskinsight-wavestone.com/wp-content/uploads/2024/05/Capture-decran-2024-05-29-144058.png)
 
 There are various cloud providers providing their own implementation of a KMS
-((Azure Key Vault)[https://azure.microsoft.com/en-us/products/key-vault),
-(Google Cloud KMS)[https://cloud.google.com/security/products/security-key-management], ...)
+([Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault),
+[Google Cloud KMS](https://cloud.google.com/security/products/security-key-management), ...)
 as well as many companies offering their solutions for on premise installations as well
-((HashiCorp Vaut)[https://www.vaultproject.io/],
-(Thales CipherTrust Manager)[https://cpl.thalesgroup.com/encryption/ciphertrust-manager], ...).
+([HashiCorp Vaut](https://www.vaultproject.io/),
+[Thales CipherTrust Manager](https://cpl.thalesgroup.com/encryption/ciphertrust-manager), ...).
 
 ## 
 
