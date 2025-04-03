@@ -41,50 +41,63 @@ In 2022 NIST organized a workshop with the goal to define the next steps to make
 This is a summary of the key takeaways of this workshop.
 
 1. The Rise of the CPSO Role
-	•	Chief Product Security Officers (CPSOs) are increasingly essential in organizations to bridge product development and cybersecurity.
-	•	CPSOs and CISOs should have clearly defined roles—the former focuses on product security, the latter on enterprise systems.
+  - Chief Product Security Officers (CPSOs) are increasingly essential in organizations to bridge product development and cybersecurity.
+  - CPSOs and CISOs should have clearly defined roles—the former focuses on product security, the latter on enterprise systems.
 
 2. OEM Responsibility After Deployment
-	•	More original equipment manufacturers (OEMs) are maintaining contact with products post-sale to manage ongoing security and updates.
-	•	Long-term relationships with customers are key to secure, supported ecosystems.
+  - More original equipment manufacturers (OEMs) are maintaining contact with products post-sale to manage ongoing security and updates.
+  - Long-term relationships with customers are key to secure, supported ecosystems.
 
 3. Supply Chain Security is Critical
-	•	OEMs are ultimately responsible for the security of their products, including third-party components.
-	•	There’s a push for more transparency and oversight across supply chains (e.g., using SBOMs and binary analysis).
+  - OEMs are ultimately responsible for the security of their products, including third-party components.
+  - There’s a push for more transparency and oversight across supply chains (e.g., using SBOMs and binary analysis).
 
 4. Value of Standards, Certifications, and Maturity Models
-	•	Security maturity models and certifications help manufacturers build trustworthy products.
-	•	These tools help align product development with industry best practices.
+  - Security maturity models and certifications help manufacturers build trustworthy products.
+  - These tools help align product development with industry best practices.
 
 5. Outcome-Based Requirements Offer Flexibility
-	•	NIST’s outcome-oriented approach allows for adaptability across sectors and technologies.
-	•	These requirements support both innovation and compliance with diverse legal/technical standards.
+  - NIST’s outcome-oriented approach allows for adaptability across sectors and technologies.
+  - These requirements support both innovation and compliance with diverse legal/technical standards.
 
 6. Need for Harmonized Conformity Assessments
-	•	Manufacturers face duplicated efforts due to differing national certification regimes.
-	•	Harmonization and mutual recognition of assessments could reduce costs and time.
+  - Manufacturers face duplicated efforts due to differing national certification regimes.
+  - Harmonization and mutual recognition of assessments could reduce costs and time.
 
 7. Mapping Standards to Common Outcomes is Helpful
-	•	Mapping industry standards to shared cybersecurity outcomes supports both development and conformity assessment.
-	•	Tools like NIST’s OLIR (Online Informative References) help with this alignment.
+  - Mapping industry standards to shared cybersecurity outcomes supports both development and conformity assessment.
+  - Tools like NIST’s OLIR (Online Informative References) help with this alignment.
 
 8. Non-Technical Security Criteria Gaining Attention
-	•	Non-technical elements like documentation, policy management, and end-of-life planning are vital but under-addressed in most standards.
-	•	Different stakeholders (e.g., consumers, assessors) need tailored documentation formats.
+  - Non-technical elements like documentation, policy management, and end-of-life planning are vital but under-addressed in most standards.
+  - Different stakeholders (e.g., consumers, assessors) need tailored documentation formats.
 
 9. Cybersecurity Labels Should Be Dynamic
-	•	Static labels are not sufficient; “live labels” (e.g., via QR codes) can provide up-to-date security information.
-	•	Transparency builds consumer trust and encourages secure product design.
+  - Static labels are not sufficient; “live labels” (e.g., via QR codes) can provide up-to-date security information.
+  - Transparency builds consumer trust and encourages secure product design.
 
 10. Life Cycle Support Remains Challenging
-	•	Manufacturers struggle with supporting IoT products throughout their entire lifecycle due to supply chain changes, evolving use cases, and market pressures.
+  - Manufacturers struggle with supporting IoT products throughout their entire lifecycle due to supply chain changes, evolving use cases, and market pressures.
 
 11. Clear Criteria Needed for Conformity Assessment
-	•	To enable effective certification, NIST’s outcome-based requirements must be refined into specific, testable statements for different product types and markets.
+  - To enable effective certification, NIST’s outcome-based requirements must be refined into specific, testable statements for different product types and markets.
 
 12. IoT Risk Assessment is Complex
-	•	Risk management is difficult due to the diverse use cases, changing environments, and component dependencies of IoT products.
-	•	Tools and guidance are needed to assess end-to-end risk, including misuse and unintended uses.
+  - Risk management is difficult due to the diverse use cases, changing environments, and component dependencies of IoT products.
+  - Tools and guidance are needed to assess end-to-end risk, including misuse and unintended uses.
+
+We can summarize the mentioned key takeaways as follows:
+
+Effective IoT cybersecurity requires clear product security leadership,
+with original equipment manufacturers (OEMs) responsible for securing products throughout
+their lifecycle—from design and supply chain management to updates and end-of-life.
+Standards, certifications, and maturity models are essential tools for building secure
+products and enabling consistent conformity assessment. Outcome-based, product-level
+requirements provide flexibility while supporting innovation and compliance across sectors.
+Harmonization of standards and assessments reduces duplication and complexity.
+Transparency, dynamic cybersecurity labeling, and non-technical supporting criteria enhance
+trust and usability. Comprehensive risk assessment remains a challenge due to the complexity,
+diversity, and evolving nature of IoT environments.
 
 ## Sources
 
