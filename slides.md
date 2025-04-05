@@ -80,8 +80,6 @@ On-Prem KMS (also available in Cloud):
 - Comprehensive risk management still remains a challenge due to the complexity, diversity and evolving nature of IoT systems - again, tools and guidance are required
 
 
----
-
 # Questions
 
 
