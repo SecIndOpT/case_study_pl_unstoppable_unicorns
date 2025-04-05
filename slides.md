@@ -77,7 +77,7 @@ On-Prem KMS (also available in Cloud):
 - Manufacturers must take responsibility for securing producuts throughout their lifecycle (design, supply chain management, updates and EOL)
 - More harmonized standards are needed to reduce complexity (global scope)
 - Transparency and dynamic cybersecurity labelling - e.g. in QR codes - rather than static labelling is preferred
-- Comprehensive risk management still remains a challenge due to the complexity, diversity and evolving nature of IoT systems - again, tools and guidance are required
+- Comprehensive risk management still remains a challenge due to the complexity, diversity and evolving nature of IoT systems - again, tools, standards and guidance are required
 
 
 # Questions
