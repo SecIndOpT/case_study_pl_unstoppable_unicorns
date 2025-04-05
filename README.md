@@ -2,13 +2,14 @@
 
 See:
 
+- [Report](./report.md)
 - [Slides](./slides.md)
 
 ## Build
 
 (NOTE: needed only to generate PDFs)
 
-Generate pdfs with `make slides`
+Generate pdfs with `make slides` and `make report` respectively.
 
 ### Needs
 
